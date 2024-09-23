@@ -256,7 +256,7 @@
     animation: scrollTextRTL 20s linear infinite; /* Right-to-left scrolling */
 }
 
-#scrollingGrid {
+#scrollingGrid3 {
     animation: scrollTextLTR 20s linear infinite; /* Left-to-right scrolling */
 }
 .grid-item {
